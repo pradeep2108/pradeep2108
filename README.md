@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep2108&layout=donut&theme=github_dark&hide_border=true&langs_count=8&hide=html,css&custom_title=Top+Languages" height="220"/>
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep2108&layout=donut&theme=github_dark&hide_border=true&langs_count=8&hide=html,css&custom_title=Top+Languages" height="220"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep2108&layout=donut&theme=github_dark&hide_border=true&langs_count=8&hide=html,css&custom_title=Top+Languages&count_private=true)
 
 </div>
 
