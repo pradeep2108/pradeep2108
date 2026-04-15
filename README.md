@@ -56,12 +56,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pradeep2108&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep2108&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pradeep2108&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep2108&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css&custom_title=Top+Languages" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep2108&theme=github-dark-blue&hide_border=true" width="55%"/>
 
 </div>
+
+> 💡 Primary languages: **Go** and **Java** on the backend · **JavaScript** on the frontend · **PostgreSQL** as the database of choice
 
 ---
 
