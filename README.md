@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Payment+Gateways+%F0%9F%92%B3;Shipping+with+Docker+%F0%9F%90%B3;React+%7C+Node.js+%7C+Go+%7C+Spring)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Engineer+from+Chennai+%F0%9F%87%AE%F0%9F%87%B3;Building+Payment+Gateways+%F0%9F%92%B3;Shipping+with+Docker+%F0%9F%90%B3;React+%7C+Node.js+%7C+Go+%7C+Spring)](https://git.io/typing-svg)
 
 </div>
 
@@ -52,18 +52,33 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pradeep2108&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep2108&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css&custom_title=Top+Languages" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep2108&theme=github-dark-blue&hide_border=true" width="55%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep2108&theme=react-dark&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&area_color=1a2d4a" width="100%"/>
 
 </div>
 
-> 💡 Primary languages: **Go** and **Java** on the backend · **JavaScript** on the frontend · **PostgreSQL** as the database of choice
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradeep2108/pradeep2108/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pradeep2108/pradeep2108/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/pradeep2108/pradeep2108/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+### 🗣️ Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep2108&layout=donut&theme=github_dark&hide_border=true&langs_count=8&hide=html,css&custom_title=Top+Languages" height="220"/>
+
+</div>
 
 ---
 
