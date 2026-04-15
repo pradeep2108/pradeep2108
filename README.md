@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2d4a,100:58a6ff&height=200&section=header&text=Pradeep%20Venkatesan&fontSize=40&fontColor=f0f6fc&fontAlignY=38&desc=Fullstack%20Engineer%20%7C%20Payment%20Infra%20%7C%20Docker&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2d4a,100:58a6ff&height=200&section=header&text=Pradeep%20Venkatesan&fontSize=40&fontColor=f0f6fc&fontAlignY=38&desc=Fullstack%20Engineer%20%7C%20Payment%20Infra%20%7C%20Golang&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
